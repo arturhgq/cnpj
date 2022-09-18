@@ -7,6 +7,7 @@ Authors@R:
 Description: This package provides tools for handling cnpj data.
 License: MIT + file LICENSE
 Suggests: 
+    covr,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Encoding: UTF-8
@@ -19,5 +20,6 @@ Imports:
     stringr
 Remotes: 
     arturhgq/dtools
-URL: https://github.com/arturhgq/cnpj
+URL: https://github.com/arturhgq/cnpj,
+    https://arturhgq.github.io/cnpj/
 BugReports: https://github.com/arturhgq/cnpj/issues
