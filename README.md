@@ -9,6 +9,9 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/cnpj)](https://CRAN.R-project.org/package=cnpj)
+[![R-CMD-check](https://github.com/arturhgq/cnpj/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/arturhgq/cnpj/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/arturhgq/cnpj/branch/master/graph/badge.svg)](https://app.codecov.io/gh/arturhgq/cnpj?branch=master)
 <!-- badges: end -->
 
 The goal of CNPJ is to provide useful tools for CNPJ cleaning.
@@ -20,9 +23,3 @@ You can install the development version of cnpj like so:
 ``` r
 remotes::install_github("arturhgq/cnpj")
 ```
-
-## Disclaimer
-
-Remember to consider the “The general Law of Data Protection” (LGPD),
-13.709/2018, before using this package. The authors are not responsible
-for misuse of the tools.

@@ -31,6 +31,3 @@ You can install the development version of cnpj like so:
 ``` r
 remotes::install_github("arturhgq/cnpj")
 ```
-## Disclaimer    
-
-Remember to consider the "The general Law of Data Protection" (LGPD), 13.709/2018, before using this package. The authors are not responsible for misuse of the tools.
